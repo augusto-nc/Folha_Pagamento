@@ -1,9 +1,9 @@
 # Folha_Pagamento
 Trabalho para a disciplina de Projeto de software
 
-[X] 1. Adição de empregado
-[X] 2. Remoção de um empregado
-[X] 3. Lançar um cartão de ponto
+[X] 1. Adição de empregado\n
+[X] 2. Remoção de um empregado\n
+[X] 3. Lançar um cartão de ponto\n
 [X] 4. Lançar um resultado Venda
 [X] 5. Lançar uma taxa de serviço
 [X] 6. Alterar detalhes de um empregado
